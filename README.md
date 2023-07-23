@@ -5,6 +5,9 @@
 <p>Curso: full Stack Basico - Grupo 1</p>
 <p>Profesor: Cristian Patiño</p>
 
+<h3>Link Página Web</h3>
+<a href="https://vanedr-624.github.io/taller-9-full-stack/" target="_blank">Link página web</a>
+
 <h2> Punto 1: Link figma</h2>
 
 <a href="https://www.figma.com/file/zu3spgg0G7NoGmWohZbomW/Vanesa-Diaz--proyecto-figma?type=design&node-id=3%3A4&mode=design&t=hNtb8PTXkXIpkOiJ-1" target="_blank">Link de Figma</a>
@@ -13,7 +16,7 @@
 <img src="./public/images/HTML.png" alt="HTML">
 
 <h2>Punto 3: CSS</h2>
-<img src= "./public/images/css.png" alt="css">
+<img src="./public/images/CSS.png" alt="CSS">
 
 <h2>Punto 4: Titulos</h2>
 <img src="./public/images/Punto 4-Titulos.png" alt="Titulos"> 
