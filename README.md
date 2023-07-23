@@ -11,3 +11,24 @@
 
 <h2>Punto 2: HTML</h2>
 <img src="./public/images/HTML.png" alt="HTML">
+
+<h2>Punto 3: CSS</h2>
+<img src= "./public/images/css.png" alt="css">
+
+<h2>Punto 4: Titulos</h2>
+<img src="./public/images/Punto 4-Titulos.png" alt="Titulos"> 
+
+<h2>Punto 5: Estilos de texto </h2>
+<img src="./public/images/Punto 5-Estilos de texto.png" alt="Estilos de texto">
+
+<h2>Punto 6: Enlaces </h2>
+<img src="./public/images/Punto 6-Enlaces.png" alt="Enlaces">
+
+<h2>Punto 7 y 8: Navegación </h2>
+<img src="./public/images/Punto 7 y 8-Navegación.png" alt="Navegación">
+
+<h2>Punto 9: Tablas</h2>
+<img src="./public/images/Punto 9- Tablas.png" alt="Tablas">
+
+
+

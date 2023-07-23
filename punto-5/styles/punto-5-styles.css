@@ -1,0 +1,24 @@
+.green-underline{
+    color: green;
+}
+
+.red-strong{
+    color: red;
+}
+
+.destroyer{
+    font-size: 30px;
+
+}
+
+.blue{
+    color: blue;
+}
+
+.red-underline{
+    color: red;
+}
+
+.underover{
+    text-decoration: underline overline;
+}
